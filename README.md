@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/diego-rincon-ab2229242/">Diego Rincón</a> 👋</h1>
 </div>
-<img src="">
+<img src="Gemini_Generated_Image_w1sxfuw1sxfuw1sx.png">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Rincón-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/diego-rincon-ab2229242/)
 [![GitHub followers](https://img.shields.io/github/followers/Diyued?style=social)](https://github.com/Diyued)
 [![Gmail](https://img.shields.io/badge/Gmail-diegorinconch2607@gmail.com-D14836?style=social&logo=gmail)](mailto:diegorinconch2607@gmail.com)
@@ -10,7 +11,7 @@
 
 - 🎓 Estudiante de **Ingeniería de Software** en la IU EAM, Armenia, Colombia
 - 💻 Apasionado por el desarrollo **web, móvil y videojuegos**
-- 🌱 Actualmente aprendiendo **ASP.NET, MVC y SQL Server**
+- 🌱 Actualmente en octavo semestre 
 - 🔭 En búsqueda de **prácticas profesionales**
 - 🚀 Me interesa el desarrollo **frontend, backend y aplicaciones móviles**
 
@@ -21,10 +22,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto Web</h3>
+<h3 align="center">Proyecto Microservicios</h3>
 <div align="center">
-<a href="https://github.com/Diyued" target="_blank">
-<img src="https://via.placeholder.com/400x200?text=Proyecto+Web" width="400" alt="Proyecto Web">
+<a href="https://github.com/JuanSeb8778/Microservicios-final" target="_blank">
+<img src="" width="400" alt="Proyecto Web">
 </a>
 <p>
 <a href="https://github.com/Diyued" target="_blank">
@@ -36,9 +37,9 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Proyecto Móvil</h3>
+<h3 align="center">Proyecto Móvil-Android</h3>
 <div align="center">
-<a href="https://github.com/Diyued" target="_blank">
+<a href="https://github.com/Diyued/uniLocal" target="_blank">
 <img src="https://via.placeholder.com/400x200?text=Proyecto+Móvil" width="400" alt="Proyecto Móvil">
 </a>
 <p>
