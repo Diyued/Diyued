@@ -25,10 +25,10 @@
 <h3 align="center">Proyecto Microservicios</h3>
 <div align="center">
 <a href="https://github.com/JuanSeb8778/Microservicios-final" target="_blank">
-<img src="" width="400" alt="Proyecto Web">
+<img src="Gemini_Generated_Image_i7vt3wi7vt3wi7vt (1).png" width="400" alt="Proyecto Web">
 </a>
 <p>
-<a href="https://github.com/Diyued" target="_blank">
+<a href="https://github.com/JuanSeb8778/Microservicios-final" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -40,10 +40,10 @@
 <h3 align="center">Proyecto Móvil-Android</h3>
 <div align="center">
 <a href="https://github.com/Diyued/uniLocal" target="_blank">
-<img src="https://via.placeholder.com/400x200?text=Proyecto+Móvil" width="400" alt="Proyecto Móvil">
+<img src="Gemini_Generated_Image_jjvaxgjjvaxgjjva.png" width="400" alt="Proyecto Móvil">
 </a>
 <p>
-<a href="https://github.com/Diyued" target="_blank">
+<a href="https://github.com/Diyued/uniLocal" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
