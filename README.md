@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/diego-rincon-ab2229242/">Diego Rincón</a> 👋</h1>
 </div>
-
+<img src="<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/3cab7466-b814-48fa-9238-5e306f38ae51" />
+">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Rincón-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/diego-rincon-ab2229242/)
 [![GitHub followers](https://img.shields.io/github/followers/Diyued?style=social)](https://github.com/Diyued)
 [![Gmail](https://img.shields.io/badge/Gmail-diegorinconch2607@gmail.com-D14836?style=social&logo=gmail)](mailto:diegorinconch2607@gmail.com)
